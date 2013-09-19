@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<equipment>	
+	<item>
+		<equipmentName>Boot of Pain</equipmentName>
+		<itemList>Boots</itemList>
+		<levelSlide>60</levelSlide>
+		<addNote>Boss Drop</addNote>
+	</item>
+	<item>
+		<equipmentName>Gloves of Stealth</equipmentName>
+		<itemList>Gloves</itemList>
+		<levelSlide>80</levelSlide>
+		<addNote>quest reward</addNote>
+	</item>
+	<item>
+		<equipmentName>Helm of sight</equipmentName>
+		<itemList>Helmet</itemList>
+		<levelSlide>35</levelSlide>
+		<addNote>rare mob Drop</addNote>
+	</item>
+	<item>
+		<equipmentName>Sword of Dread</equipmentName>
+		<itemList>Main Hand</itemList>
+		<levelSlide>76</levelSlide>
+		<addNote>raid Drop</addNote>
+	</item>
+	<item>
+		<equipmentName>Chest of Torment</equipmentName>
+		<itemList>Chest</itemList>
+		<levelSlide>52</levelSlide>
+		<addNote>found in chest</addNote>
+	</item>
+</equipment>

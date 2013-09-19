@@ -1,0 +1,35 @@
+{
+	"equipment" : [
+
+		{
+			"equipmentName"	: "Book of Manipulation",
+			"itemList"		: "Off Hand",
+			"levelSlide"	: "60",
+			"addNote"		: "Rare Drop"
+		},
+		{
+			"equipmentName"	: "Chest of Health",
+			"itemList"		: "Chest",
+			"levelSlide"	: "25",
+			"addNote"		: "Rare Drop from a world boss"
+		},
+		{
+			"equipmentName"	: "Orb of Mana",
+			"itemList"		: "Off Hand",
+			"levelSlide"	: "80",
+			"addNote"		: "Rare Drop Raid Boss"
+		},
+		{
+			"equipmentName"	: "Ring of Thorns",
+			"itemList"		: "Left Ring",
+			"levelSlide"	: "76",
+			"addNote"		: "Rare quest reward"
+		},
+		{
+			"equipmentName"	: "Amulet of Insight",
+			"itemList"		: "Neck",
+			"levelSlide"	: "56",
+			"addNote"		: "rare drop"
+		}
+	]
+}

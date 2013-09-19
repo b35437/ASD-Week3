@@ -1,0 +1,31 @@
+/*
+Name: Nathan Byarley
+Project: Week 1
+Term: 1309
+Class: ASD
+*/
+
+/* started out with adjustment to feature image. as most of this project uses jquery css */
+
+
+#top-image {
+	text-align: center;
+}
+
+#a, #b {
+	display: none;
+}
+
+span.red{
+	color: red;
+}
+
+#error{
+	display: none;
+}
+
+label.error{
+	display: block;
+	margin: 10px 0;
+	color: red;
+}
